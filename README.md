@@ -14,6 +14,6 @@ GeoIP Lookup -	Find the location of an IP address using the GeoIP lookup locatio
 Reverse IP -	Discover web hosts sharing an IP address with a reverse IP lookup.  
 TCP Port Scan - Determine the status of an Internet facing service or firewall  
 UDP Port Scan	- Online UDP port scan available for common UDP services  
-Subnet Lookup Online	Determine the properties of a network subnet  
+Subnet Lookup Online - Determine the properties of a network subnet  
 HTTP Headers -	View HTTP Headers of a web site. The HTTP Headers reveal system and web application details.  
 Page Links -	Dump all the links from a web page.  
