@@ -1,6 +1,11 @@
 #!/usr/bin/python
 import argparse
-import requests
+Result for: 00.40.96
+Address Prefix	00:40:96
+Vendor / Company	Cisco Systems, Inc
+Start Address	004096000000
+End Address	004096FFFFFF
+Company Address	170 W. Tasman Drive San Jose Ca 95134 Us requests
 
 def main():
 
